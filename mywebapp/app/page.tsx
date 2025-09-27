@@ -24,7 +24,7 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <li className="tracking-[-.01em]">
-            CICD project initiated v1.00.
+            CICD project initiated v2.00.
           </li>
         </ol>
 
